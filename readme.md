@@ -2,7 +2,7 @@ LomilinProject
 =============
 
 ## Section 1
-text
+This is a demo project
 
 ### Section 2
 text
