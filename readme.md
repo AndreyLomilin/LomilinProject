@@ -9,3 +9,4 @@ new text again
 
 ### Section 3
 поменял only на new
+принял изменения
