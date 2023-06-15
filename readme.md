@@ -8,4 +8,4 @@ This is a demo project
 new text again
 
 ### Section 3
-only
+поменял only на new
