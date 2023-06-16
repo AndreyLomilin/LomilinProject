@@ -1,4 +1,4 @@
-LomilinProject
+﻿LomilinProject
 =============
 
 ## Section 1
@@ -9,6 +9,7 @@ new text again
 изменения в 13.10
 изменения в 13.21
 поменял AUP
+поменял на WORK
 
 ### Section 3
 поменял only на new
